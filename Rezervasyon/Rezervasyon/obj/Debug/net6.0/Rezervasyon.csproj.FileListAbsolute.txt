@@ -1,0 +1,15 @@
+C:\Users\yigit\source\repos\Rezervasyon\Rezervasyon\obj\Debug\net6.0\Rezervasyon.csproj.AssemblyReference.cache
+C:\Users\yigit\source\repos\Rezervasyon\Rezervasyon\obj\Debug\net6.0\Rezervasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yigit\source\repos\Rezervasyon\Rezervasyon\obj\Debug\net6.0\Rezervasyon.AssemblyInfoInputs.cache
+C:\Users\yigit\source\repos\Rezervasyon\Rezervasyon\obj\Debug\net6.0\Rezervasyon.AssemblyInfo.cs
+C:\Users\yigit\source\repos\Rezervasyon\Rezervasyon\obj\Debug\net6.0\Rezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\Rezervasyon\Rezervasyon\bin\Debug\net6.0\Rezervasyon.exe
+C:\Users\yigit\source\repos\Rezervasyon\Rezervasyon\bin\Debug\net6.0\Rezervasyon.deps.json
+C:\Users\yigit\source\repos\Rezervasyon\Rezervasyon\bin\Debug\net6.0\Rezervasyon.runtimeconfig.json
+C:\Users\yigit\source\repos\Rezervasyon\Rezervasyon\bin\Debug\net6.0\Rezervasyon.dll
+C:\Users\yigit\source\repos\Rezervasyon\Rezervasyon\bin\Debug\net6.0\Rezervasyon.pdb
+C:\Users\yigit\source\repos\Rezervasyon\Rezervasyon\obj\Debug\net6.0\Rezervasyon.dll
+C:\Users\yigit\source\repos\Rezervasyon\Rezervasyon\obj\Debug\net6.0\refint\Rezervasyon.dll
+C:\Users\yigit\source\repos\Rezervasyon\Rezervasyon\obj\Debug\net6.0\Rezervasyon.pdb
+C:\Users\yigit\source\repos\Rezervasyon\Rezervasyon\obj\Debug\net6.0\Rezervasyon.genruntimeconfig.cache
+C:\Users\yigit\source\repos\Rezervasyon\Rezervasyon\obj\Debug\net6.0\ref\Rezervasyon.dll
